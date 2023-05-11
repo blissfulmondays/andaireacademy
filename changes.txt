@@ -1,0 +1,66 @@
+1.5
+- Added WordPress 5.8.1 compatibility
+- Added WooCommerce 5.6.0 compatibility
+- Updated WPBakery Page Builder to 6.7.0
+- Updated Revolution Slider to 6.5.8
+- Updated Arabesque Core to 1.2.3
+- Updated Arabesque Child theme to 1.0.1
+- Fixed cart widgets in WordPress 5.8
+- Fixed creation of the Custom Sidebars in new Widgets layout
+
+1.4.0
+- Added PHP 8 compatibility
+- Added WordPress 5.7 compatibility
+- Added WooCommerce 5.0 compatibility
+- Updated WPBakery Page Builder to 6.6.0
+- Updated Revolution Slider to 6.5.2
+- Updated Timetable Responsive Schedule For WordPress to 6.7
+- Updated Arabesque Core to 1.2.2
+- Updated Arabesque Twitter Feed plugin to 1.0.4
+- Updated Arabesque Instagram Feed plugin to 2.1
+- Fixed Instagram API
+
+1.3
+- Added WordPress 5.5 compatibility
+- Added WooCommerce 4.7.0 compatibility
+- Updated WPBakery Page Builder to 6.4.1
+- Updated Revolution Slider to 6.2.23
+- Updated Timetable Responsive Schedule For WordPress to 6.4
+- Updated Arabesque Core to 1.2.1
+- Updated Arabesque Instagram Feed plugin to 2.0
+- Updated Arabesque Twitter Feed plugin to 1.0.3
+
+1.2
+- Added Arabesque Dashboard
+- Updated Arabesque Core to 1.2
+- Updated WPBakery Page Builder to 6.1
+- Updated Revolution Slider to 6.1.5
+- Updated Arabesque Instagram Feed plugin to 1.0.2
+- Updated Arabesque Twitter Feed plugin to 1.0.2
+- Updated pot file
+- Fixed Open Graph description rendering for pages
+- Improved Parallax with zoom out behavior
+- Improved Import
+- Improved Welcome Page
+- Changed Arabesque Options Position
+- Removed unused file instagram-redirect.php from Arabesque Instagram Widget plugin
+- Removed unused file twitter-redirect.php from Arabesque Twitter Feed plugin
+
+1.1.3
+- Updated Arabesque Core to 1.1.1
+- Fixed Twitter sharing module
+
+1.1.2
+- Fixed mobile navigation error
+
+1.1.1
+- Fixed theme activation error
+
+1.1
+- Updated Arabesque Core to 1.1
+- Updated Arabesque Instagram Feed to 1.0.1
+- Updated Arabesque Twitter Feed to 1.0.1
+- Updated pot file
+- Improved theme security
+- Improved framework files
+- Improved import functionality

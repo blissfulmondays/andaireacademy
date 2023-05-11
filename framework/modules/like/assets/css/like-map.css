@@ -1,0 +1,20 @@
+/* ==========================================================================
+   Footer styles - begin
+   ========================================================================== */
+/* common mixins - start */
+/* common mixins - end */
+/* mixins styles - start */
+/* mixins styles - end */
+.mkdf-blog-like .mkdf-like {
+  font-size: 13px;
+}
+
+.mkdf-blog-like .mkdf-like > span {
+  display: none;
+}
+
+/* ==========================================================================
+   Footer styles - end
+   ========================================================================== */
+
+/*# sourceMappingURL=like-map.css.map */
